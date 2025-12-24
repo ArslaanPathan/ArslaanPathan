@@ -1,1 +1,1 @@
-print("Arslaan Pathan - https://arslaan3102.justlearning.net")
+print("Arslaan Pathan - https://arslaancodes.com")
