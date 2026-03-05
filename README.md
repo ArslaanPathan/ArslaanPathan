@@ -1,2 +1,2 @@
 # Arslaan Pathan
-https://arslaancodes.com
+https://git.arslaancodes.com
